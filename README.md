@@ -14,6 +14,9 @@ If you use this simulation in your own published work please let us know so we c
 
 **Published Works Using Simulation**
 
+- Kelch, Y., Kluge, A., & Kunold, L. (2024, March). Would you Trust a Robot that Distrusts you?. In *Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction* (pp. 588-592).
+- Esterwood, C., & Robert, L. P. (2023). The theory of mind and human–robot trust repair. *Scientific Reports*, *13*(1), 9877.
+- Esterwood, C., & Robert Jr, L. P. (2023). Three strikes and you are out!: The impacts of multiple human–robot trust violations and repairs on robot trustworthiness. *Computers in Human behavior*, *142*, 107658.
 - [Esterwood, C. and Robert, L. P. (2022) Having The Right Attitude: How Attitude Impacts Trust Repair in Human-Robot Interaction, Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022). March 7-10, 2022, online](https://deepblue.lib.umich.edu/handle/2027.42/171268)
 - [Esterwood, C., & Robert, L. P. (2021, August). Do you still trust me? human-robot trust repair strategies. In *2021 30th IEEE International Conference on Robot & Human Interactive Communication (RO-MAN)*
  (pp. 183-188). IEEE.](https://ieeexplore.ieee.org/abstract/document/9515365)
