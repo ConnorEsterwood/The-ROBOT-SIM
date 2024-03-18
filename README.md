@@ -23,7 +23,7 @@ If you use this simulation in your own published work please let us know so we c
 
 ---
 
-# Simulation Files & Releases (ALPHA)
+# Simulation Files & Releases
 
 Due to some of the limitations with sharing and distributing UE projects I’ve decided to try out drobox transfer as a distribution method. Below are the builds we have so far and the links to the associated project files. In future we may change this distribution system and are certainly open to ideas or recommendations form the community.
 
